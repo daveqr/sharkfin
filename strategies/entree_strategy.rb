@@ -1,6 +1,6 @@
 require 'json'
 require_relative 'base_strategy'
-require_relative 'entree'
+require_relative '../model/entree'
 
 class EntreeStrategy < BaseStrategy  
   def get
