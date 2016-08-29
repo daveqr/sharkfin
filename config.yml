@@ -1,0 +1,8 @@
+
+strategies: 
+  entree:
+    name: 'EntreeStrategy'
+    view: 'views/entree.json'
+  error:
+    name: 'ErrorStrategy'
+    view: 'views/error.erb'
